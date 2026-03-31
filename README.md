@@ -37,9 +37,9 @@ Desde la selección manual de la cereza hasta el tostado a 206 °C, cada detalle
 ---
 
 
-··Más que café, ofrecemos una experiencia que nace en el origen y se perfecciona en cada etapa.
+##Más que café, ofrecemos una experiencia que nace en el origen y se perfecciona en cada etapa.
 
-Cada taza refleja dedicación, precisión y pasión por la excelencia.··
+Cada taza refleja dedicación, precisión y pasión por la excelencia.##
 
 ---
 
