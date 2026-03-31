@@ -43,6 +43,6 @@ Desde la selección manual de la cereza hasta el tostado a 206 °C, cada detalle
 
 ---
 
-## 🚀 Café Donballes
+##  Café Donballes
 
 **No es café. Es Donballes.**
