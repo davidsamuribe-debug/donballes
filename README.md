@@ -24,7 +24,7 @@ Desde la selección manual de la cereza hasta el tostado a 206 °C, cada detalle
 
 ## 🌐 Sitio Web
 
-👉 https://TUUSUARIO.github.io
+👉 https://davidsamuribe-debug.github.io/donballes/
 
 ---
 
@@ -32,7 +32,7 @@ Desde la selección manual de la cereza hasta el tostado a 206 °C, cada detalle
 
 ¿Quieres probarlo?
 
-👉 https://wa.me/5213111234567?text=Hola%20quiero%20comprar%20cafe%20Donballes
+👉 https://wa.me/523114170344?text=Hola%20quiero%20comprar%20cafe%20Donballes
 
 ---
 
