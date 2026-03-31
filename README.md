@@ -1,17 +1,17 @@
-# ☕ Café Donballes
+#  Café Donballes
 
 **Café artesanal de origen Nayarit, cultivado, procesado y tostado con precisión para ofrecer una experiencia auténtica en cada taza.**
 
 ---
 
-## 🌿 Sobre Nosotros
+##  Sobre Nosotros
 
 Café Donballes nace del compromiso con la calidad, el origen y el cuidado en cada etapa del proceso.  
 Desde la selección manual de la cereza hasta el tostado a 206 °C, cada detalle está diseñado para resaltar el verdadero carácter del café.
 
 ---
 
-## 🔥 Nuestro Proceso
+##  Nuestro Proceso
 
 - 🌱 Cultivo orgánico en tierras de Nayarit  
 - 🍒 Selección manual de cerezas maduras  
@@ -22,13 +22,13 @@ Desde la selección manual de la cereza hasta el tostado a 206 °C, cada detalle
 
 ---
 
-## 🌐 Sitio Web
+##  Sitio Web
 
 👉 https://davidsamuribe-debug.github.io/donballes/
 
 ---
 
-## 📲 Contacto
+##  Contacto
 
 ¿Quieres probarlo?
 
@@ -36,7 +36,6 @@ Desde la selección manual de la cereza hasta el tostado a 206 °C, cada detalle
 
 ---
 
-## 💎 Filosofía
 
 Más que café, ofrecemos una experiencia que nace en el origen y se perfecciona en cada etapa.
 
